@@ -23,7 +23,7 @@ URL: [Scratch「鎮主」](https://scratch.mit.edu/projects/1245579611)
 役割：プログラマー  
 URL: [Unityroom「KESHIGOMUBATTLE」](https://unityroom.com/games/kesibato)
 
-### ミラクル☆スライムレボリューション（3Dアクション）
+### ミラクル☆スライムエボリューション（3Dアクション）
 ![ゲームロゴ](./GameLogo.png)  
 使用ツール：Unity  
 役割：プログラマー(エフェクト担当)  
